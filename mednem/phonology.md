@@ -10,16 +10,16 @@
 
 # Consonants
 
-                     | Bi-labial  | Labio-dental | Dental | Alveolar | Post-alveolar | Palatal   | Velar | Uvular | Pharyngeal | Glottal |
--------------------- | ---------- | ------------ | ------ | -------- | ------------- | -------   | ----- | ------ | ---------- | ------- |
-Plosive              |            |              |        |   [d][2] |               |           |[g][5] |        |            |         |
-Nasal                |     [m][1] |              |        |          | [n][3]        |    [ɲ][4] |       |        |            |         |
-Trill                |            |              |        |          |               |           |       |        |            |         |
-Tap or Flap          |            |              |        |          |               |           |       |        |            |         |
-Fricative            |            |              |        |          | [ʃ][7]        |           |       |        |            | [h][6]  |
-Lateral Fricative    |            |              |        |          |               |           |       |        |            |         |
-Approximant          |            |              |        |          |               |           |       |        |            |         |
-Lateral Approximant  |            |              |        |          |               |           |       |        |            |         |
+|                      | Bi-labial  | Labio-dental | Dental | Alveolar | Post-alveolar | Palatal   | Velar | Uvular | Pharyngeal | Glottal |
+| -------------------- | ---------- | ------------ | ------ | -------- | ------------- | -------   | ----- | ------ | ---------- | ------- |
+| Plosive              |            |              |        |   [d][2] |               |           |[g][5] |        |            |         |
+| Nasal                |     [m][1] |              |        |          | [n][3]        |    [ɲ][4] |       |        |            |         |
+| Trill                |            |              |        |          |               |           |       |        |            |         |
+| Tap or Flap          |            |              |        |          |               |           |       |        |            |         |
+| Fricative            |            |              |        |          | [ʃ][7]        |           |       |        |            | [h][6]  |
+| Lateral Fricative    |            |              |        |          |               |           |       |        |            |         |
+| Approximant          |            |              |        |          |               |           |       |        |            |         |
+| Lateral Approximant  |            |              |        |          |               |           |       |        |            |         |
 
 [1]: https://en.wikipedia.org/wiki/Voiced_bilabial_nasal
 [2]: https://en.wikipedia.org/wiki/Voiced_dental_and_alveolar_plosives
