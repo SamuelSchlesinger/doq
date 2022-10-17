@@ -1,12 +1,12 @@
 # Phonology of Mednem /mɜdɲɛm/
 
 # Vowels
-- ɜ
-- ɛ
-- ʌ
-- i
-- e
-- ɐ
+- [ɜ](https://en.wikipedia.org/wiki/Open-mid_central_unrounded_vowel)
+- [ɛ](https://en.wikipedia.org/wiki/Open-mid_front_unrounded_vowel)
+- [ʌ](https://en.wikipedia.org/wiki/Open-mid_back_unrounded_vowel)
+- [i](https://en.wikipedia.org/wiki/Close_front_unrounded_vowel)
+- [e](https://en.wikipedia.org/wiki/Close-mid_front_unrounded_vowel)
+- [ɐ](https://en.wikipedia.org/wiki/Near-open_central_vowel)
 
 # Consonants
 
