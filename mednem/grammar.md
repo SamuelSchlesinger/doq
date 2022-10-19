@@ -22,10 +22,9 @@ like "me".
 A constraining phrase consists of an identifier, potentially being introduced
 by an introductory particle, and the constraining particle shi /ʃi/. After the
 shi, there is a class which the identifier is a part of. There is the empty
-class, dod /dʌd/, the class of every possible thing, nam /hɐm/, and a class
+class, dod /dʌd/, the class of every possible thing, nam /nɐm/, and a class
 corresponding to every identifier, ni /ni/ [identifier], indicating all of the
 possible things that identifier could refer to. Classes are similar to
 adjectives and nouns in English in some ways. Essentially, they are ways to
 group entities which serve both purposes. Classes can be unioned
-with dosh /dɐʃ/, intersected with hash /nɐʃ/, and negated with unye /ɜɲe/.
-
+with dosh /dɐʃ/, intersected with nosh /nɐʃ/, and negated with unye /ɜɲe/.
