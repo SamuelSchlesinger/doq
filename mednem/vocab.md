@@ -49,3 +49,24 @@ e.g. unyo dosh mud == dod, unless you're talking to yourself or using some metap
 unye /ɜɲe/
 combinator : class -> class
 negates a class
+
+shada /ʃɐdɐ/
+class
+time (concept); season; period of time; astrological configuration
+
+guh /gɛ/
+class
+refers to the identifier on the left side of the shi
+
+di /di/
+relation identifying particle
+identifies the word following as a relation, to be interpreted according to its definition.
+
+muh /mɜ/
+combinator : class -> identifier
+allows one to further constrain an existing class using shi
+e.g. muh nam shi dod. => everything is nothing.
+
+shand /ʃɐnd/
+relation: infix, binary
+the relation between the farmer and the land he farms

@@ -28,3 +28,30 @@ possible things that identifier could refer to. Classes are similar to
 adjectives and nouns in English in some ways. Essentially, they are ways to
 group entities which serve both purposes. Classes can be unioned
 with dosh /dɐʃ/, intersected with nosh /nɐʃ/, and negated with unye /ɜɲe/.
+
+Going backwards, one can turn a class into an identifier with the combinator
+muh /mɜ/. The idea here is that because we've allowed identifiers to be
+turned into classes, classes fundamentally can be as ill specified as identifiers.
+Thus, a very common pattern might be to say: "nyuh Deq shi X. Deq shi Y". This
+construction allows one to shorten this into "muh X shi Y".
+
+Within a constraint, one can use the term guh /gɛ/ to refer to the identifier
+to the left side of the corresponding shi. This allows you to refer to it in
+one syllable rather than repeating it.
+
+Other than these aspects and a shared core of vocabulary, pronunciation, and
+phonetics, the Mednem language has many varied dialects. There remains only one
+more consistent aspect to the language which is flavored by regional
+differences: the concept of a relation between classes. A relation is annotated
+with the relation particle di /di/, and is similar to a combinator but can have
+named arguments.  The relation between farmer and land-farmed, Shand /ʃɐnd/,
+can thus be used as: "muh nyo shi guh di shand nam", meaning "I am the farmer
+of everything". As you can see, this particular relation is binary and infix,
+meaning that it is placed between two classes, resulting in a new class.
+Without the di, relations can be treated as identifiers, and one can treat any
+identifier as a relation by applying di to it. Thus, you can describe a
+relation via a constraint clause, as in "nya Genda shi ni Shand dosh nyo."
+translating to "There is something called Genda. Genda is the intersection
+between the relation of the farmer and his land and my own identity." Perhaps
+Genda is my way of farming the land, something I'll write a self-help book
+about one day.
