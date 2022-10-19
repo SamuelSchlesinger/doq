@@ -70,3 +70,20 @@ e.g. muh nam shi dod. => everything is nothing.
 shand /ʃɐnd/
 relation: infix, binary
 the relation between the farmer and the land he farms
+e.g. "muh nyo shi guh di shand shada" 
+  => "I am the farmer of time"
+
+make /meq/
+class
+knowledge; information
+
+nyum /ɲɛm/
+class
+love
+
+med /med/
+relation: infix, binary
+for
+e.g. "nya Sham shi guh di mer ni Shand."
+  => "I am Sam and Sam is meant for farming."
+
